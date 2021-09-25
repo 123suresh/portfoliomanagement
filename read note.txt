@@ -1,0 +1,20 @@
+Note:
+
+frontend-html,css,js
+backend-php
+database-mysql
+
+Process:
+1.Create "portfoliomanagement" database in xampp and import database.sql file from "portfolio management\PortfolioManagement".
+2.Now keep project "portfolio management" inside "Local Dick C\xampp\htdocs".
+3.You can star your local server on browser and open "portfolio management\PortfolioManagement".
+4.Now you can login with username="suresh" and password="12345" or you can create your own login details by going into "create an account link".
+
+Things done:
+1.On dashboard we can see total amount and total quantity.
+2.On dashboard we can see detail about all share on table.
+3.If you want to buy or sell share you can go into "Buy or Sell Share" link.
+
+Problem i faced:
+1. I was not familiar connecting React App with MySql so i had use simple HTML, CSS and javascript.
+2.I was not able to update profit/loss amount automatically. Because I had use one product table for both.
